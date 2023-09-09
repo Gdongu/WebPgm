@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<meta char="utf-8">
+<title>나의 소개</title>
+<style>
+	body {color:green; margin-left:50px; margin-right:50px;}
+	h3 { text-align:center; color:blue;}
+	hr { height:5px; border:solid gray; background-color:grey}
+	span { color:red; font-size:20px;}
+</style>
+<script>
+	function show() {
+		document.getElementById("me").src = "https://apps.ks.ac.kr/ksu/servlet/ksusInfo.KsusCardimg?group=A&userid=2020775011"
+	}
+	function hide() {
+		document.getElementById("me").src = ""
+	}
+</script>
+</head>
+<body> 
+<h3 onmouseover="show()" onmouseout="hide()">김동우</h3>
+<hr>
+<div><img id="me" src=""></div>
+저는 부산 경성대학교에서 소프트웨어 공학을 전공하는 학생입니다. 
+제가 제일 좋아하는 과목은 <span>웹 프로그래밍</span>이고, 
+그 중에서도 <span>자바스크립트</span>를 제일 잘합니다. 
+</body>
+</html>  
