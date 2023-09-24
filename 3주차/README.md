@@ -42,11 +42,9 @@ p254-4<br><hr>
 p255-6<br><hr>
 ![스크린샷 2023-09-24 192139](https://github.com/Gdongu/WebPgm/assets/70313873/4827602c-d72d-4b63-8985-051cbe964561)
 ![스크린샷 2023-09-24 192148](https://github.com/Gdongu/WebPgm/assets/70313873/9d072c4d-8ea4-4098-ac73-3859666c77d3)
-
-1초에 한 바퀴씩 무한번 회전하는 모습이다.
 ![스크린샷 2023-09-24 192207](https://github.com/Gdongu/WebPgm/assets/70313873/2be48ad7-42b2-4515-918c-7446a73f00f7)
 ![스크린샷 2023-09-24 192211](https://github.com/Gdongu/WebPgm/assets/70313873/c47522ac-50ab-46d9-9d52-1107697894d1)
-<br>왼쪽으로 90도 갔다가 오른쪽으로 90도 가기를 1초에 1번씩 무한 반복하는 모습이다. 
+<br>1,2번째 사진은 1초에 한 바퀴씩 무한번 회전하는 모습이고 3, 4번째 사진은 왼쪽으로 90도 갔다가 오른쪽으로 90도 가기를 1초에 1번씩 무한 반복하는 모습이다. 
 
 p255-7<br><hr>
 ![스크린샷 2023-09-24 192344](https://github.com/Gdongu/WebPgm/assets/70313873/1aca3665-9e76-4eae-84e6-962fd6ca7ad8)
