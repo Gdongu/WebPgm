@@ -1,0 +1,15 @@
+body { background-color : aliceblue; }
+
+h1 { text-align : center; color : brown; }
+
+span { font-family : dafault; color : blue; font-size: 20px; font-weight : bold; }
+
+p { font-family : "휴먼편지체"; font-size : 1em; }
+
+header { border-bottom-style : solid; border-bottom-width : 1px; }
+
+section { background-color : pink; }
+
+form { text-indent : 1em; }
+
+footer { background-color : orange; border-radius : 20px; }

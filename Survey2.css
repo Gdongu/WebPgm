@@ -1,0 +1,12 @@
+html, body { padding : 0px; margin : 0px; height : 100% }
+
+h1 { text-align : center; }
+
+header { background : yellow; height : 15%; }
+
+section { background : pink; width : 90%; height : 70%;
+	margin-left : 5%; margin-right : 5%; }
+
+form { text-indent : 1em; }
+
+footer { background-color : mediumpurple; height : 10%; }
