@@ -41,7 +41,7 @@ p254-4<br><hr>
 
 p255-6<br><hr>
 ![스크린샷 2023-09-24 192139](https://github.com/Gdongu/WebPgm/assets/70313873/4827602c-d72d-4b63-8985-051cbe964561)
-![스크린샷 2023-09-24 192148](https://github.com/Gdongu/WebPgm/assets/70313873/9d072c4d-8ea4-4098-ac73-3859666c77d3)
+![스크린샷 2023-09-24 192148](https://github.com/Gdongu/WebPgm/assets/70313873/9d072c4d-8ea4-4098-ac73-3859666c77d3)<br>
 1초에 한 바퀴씩 무한번 회전하는 모습이다.
 ![스크린샷 2023-09-24 192207](https://github.com/Gdongu/WebPgm/assets/70313873/2be48ad7-42b2-4515-918c-7446a73f00f7)
 ![스크린샷 2023-09-24 192211](https://github.com/Gdongu/WebPgm/assets/70313873/c47522ac-50ab-46d9-9d52-1107697894d1)
