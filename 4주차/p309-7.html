@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<meta charset="utf-8">
+<head>
+<title>큰 자리수와 낮은자리수 같은지 비교</title>
+</head>
+<body>
+<h3>큰 자리수와 낮은자리수 같은지 비교</h3>
+<hr>
+<script>
+	let n = prompt("숫자 입력", "");
+	let m = parseInt(n);
+	let least = m % 10;
+	let most;
+	while(m != 0) {
+		most = m % 10;
+		m = Math.floor(m/10);
+	}
+	if(most == least) {
+		document.write(n + ": 같음");
+	}
+	else {
+		document.write(n + ": 다름");
+	}
+</script>
+</body>
+</html>

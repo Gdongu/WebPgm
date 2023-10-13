@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<meta charset="utf-8">
+<head>
+<title>문자열 분할</title>
+</head>
+<body>
+<h3>문자열 분할</h3>
+<hr>
+<script>
+	let user = prompt("문자열 입력", "a");
+	let sp = user.split("&")
+
+	for(let i=0; i<sp.length; i++) {
+		document.write(sp[i]+"<br>");
+	}
+</script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<meta charset="utf-8">
+<head>
+<title>방문 요일에 따라 변하는 배경색</title>
+</head>
+<body>
+<h3>일요일은 pink, 다른 요일은 gold 배경</h3>
+<hr>
+<script>
+	let day = new Date();
+	let week;
+	if(day.getDay()==0) {
+		document.body.style.backgroundColor = "pink";
+	}
+	else {
+		document.body.style.backgroundColor = "gold";
+	}
+	if(day.getDay()==0) {
+		week = "일요일";
+	}
+	else if(day.getDay()==1) {
+		week = "월요일";
+	}
+	else if(day.getDay()==2) {
+		week = "화요일";
+	}
+	else if(day.getDay()==3) {
+		week = "수요일";
+	}
+	else if(day.getDay()==4) {
+		week = "목요일";
+	}
+	else if(day.getDay()==5) {
+		week = "금요일";
+	}
+	else if(day.getDay()==6) {
+		week = "토요일";
+	}
+	document.write("오늘 : "+day.getDate()+"일,"+week);
+</script>
+</body>
+</html>
