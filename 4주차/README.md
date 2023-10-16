@@ -26,7 +26,7 @@ document.write()를 이용해서 script 태그 안에 자바스크립트 코드�
 ![스크린샷 2023-10-16 203555](https://github.com/Gdongu/WebPgm/assets/70313873/c86f7618-dc93-411e-8815-bb4f2936821a)<br>
 
 p308-4<br><hr>
-prompt() 함수를 이용하여 월~일 중 하나를 입력받아 월~목의 경우 '출근'을, 다른 날의 경우 '휴일'을 출력하는 자바스크립트 코드를 작성하여 웹 페이지를 완성하는 문제다.<br>
+prompt() 함수를 이용하여 월요일 부터 일요일 중 하나를 입력받아 월요일 부터 목요일의 경우 '출근'을, 다른 날의 경우 '휴일'을 출력하는 자바스크립트 코드를 작성하여 웹 페이지를 완성하는 문제다.<br>
 ![스크린샷 2023-10-16 203732](https://github.com/Gdongu/WebPgm/assets/70313873/ce50d42e-aa4c-4df3-83f9-4b7d8a78ad42)<br>
 요일을 입력받는 창<br>
 ![스크린샷 2023-10-16 203739](https://github.com/Gdongu/WebPgm/assets/70313873/909dfbd0-aaf6-444d-ba2c-ee1357908744)<br>
