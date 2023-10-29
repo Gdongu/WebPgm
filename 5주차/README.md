@@ -84,13 +84,78 @@ p389-10(1)(2)<br><hr>
 ![스크린샷 2023-10-29 224324](https://github.com/Gdongu/WebPgm/assets/70313873/0a8ca480-e7dd-4404-bc01-9a4c5bc1ffbf)<br>
 정답이 지워지고 초기 화면으로 돌아간다.<br>
 
+p439-open challenge<br><hr>
+10x10의 셀을 가진 표를 만들고 랜덤하게 선택한 셀에 이미지를 출력한다. 이미지를 클릭하면 다른 셀을 랜덤하게 선택하여 이미지를 출력한다.<br>
+![스크린샷 2023-10-29 224652](https://github.com/Gdongu/WebPgm/assets/70313873/3b583421-df37-4f3c-af0b-5d32eafc0d9e)<br>
+강아지가 랜덤하게 선택한 셀에 출력되었다. 강아지를 클릭하면<br>
+![스크린샷 2023-10-29 224657](https://github.com/Gdongu/WebPgm/assets/70313873/78d774be-aec7-4066-b3c7-e02e55406f28)<br>
+랜덤한 셀에 다시 출력된다.<br>
 
+p434-1<br><hr>
+브라우저 내의 아무곳이나 클릭하면 초기 화면과 같고, 브라우저 바깥의 아무 곳에 마우스를 클릭하면 배경색이 lightgray 색으로 바뀌게 하는 문제다.<br>
+![스크린샷 2023-10-29 225013](https://github.com/Gdongu/WebPgm/assets/70313873/64ebdeaf-d375-46e6-88bd-2329954fc8fc)<br>
+초기 화면이다.<br>
+![스크린샷 2023-10-29 225016](https://github.com/Gdongu/WebPgm/assets/70313873/d279cdc2-af0a-42ab-8876-1dc51eb5cdda)<br>
+브라우저 바깥의 아무 곳을 클릭하니 배경색이 lightgray 색으로 바뀐 모습이다.<br>
 
+p434-2<br><hr>
+라디오버튼을 선택하면 해당 이미지를 출력하는 문제다.<br>
+![스크린샷 2023-10-29 225129](https://github.com/Gdongu/WebPgm/assets/70313873/dfaf83bb-ff77-49e4-85b9-411087a74c58)<br>
+![스크린샷 2023-10-29 225131](https://github.com/Gdongu/WebPgm/assets/70313873/860e4495-da81-402e-bdfa-33415a3c1f57)<br>
+![스크린샷 2023-10-29 225133](https://github.com/Gdongu/WebPgm/assets/70313873/1f442cef-c924-45b4-9e59-c3dabe16af57)<br>
 
+p435-3<br><hr>
+계산식을 입력받아 결과를 출력하는 문제다. 식 입력 후 Enter 키를 치면 수식을 계산하고 결과를 출력한다.<br>
+![스크린샷 2023-10-29 225314](https://github.com/Gdongu/WebPgm/assets/70313873/7bc4d1e0-7597-4580-a3ac-17f65268cab0)<br>
+수식을 입력<br>
+![스크린샷 2023-10-29 225318](https://github.com/Gdongu/WebPgm/assets/70313873/97ffd2c3-b650-4387-90bd-6683c1540bba)<br>
+Enter 키를 누르니 계산 결과가 출력된 모습이다.<br>
 
+p435-4<br><hr>
+웹 페이지에 마우스가 움직일 때 이미지를 마우스 커서처럼 사용하도록 하는 문제다.<br>
+![스크린샷 2023-10-29 225434](https://github.com/Gdongu/WebPgm/assets/70313873/6dd0cd53-8ed6-4395-98b1-7bad0639f49b)<br>
+초기 화면이다.<br>
+![스크린샷 2023-10-29 225452](https://github.com/Gdongu/WebPgm/assets/70313873/02e06c03-3db1-4fd7-95ac-d400e3565d56)<br>
+커서를 움직이니 이미지가 따라 움직인다.<br>
 
+p435-5<br><hr>
+브라우저 아무 곳이나 더블클릭하면 바탕색이 랜덤하게 바뀌게 하는 문제다.<br>
+![스크린샷 2023-10-29 225611](https://github.com/Gdongu/WebPgm/assets/70313873/98956de3-fce3-43a0-be2a-c3c116d24407)<br>
+초기 화면이다.<br>
+![스크린샷 2023-10-29 225616](https://github.com/Gdongu/WebPgm/assets/70313873/953a35c4-6f83-444d-989c-d51e5996a536)<br>
+![스크린샷 2023-10-29 225620](https://github.com/Gdongu/WebPgm/assets/70313873/c4729b46-8a34-43a8-a37c-039e9715c510)<br>
+더블클릭을 하니 바탕색이 랜덤하게 바뀌는 모습이다.<br>
 
+p436-6<br><hr>
+이미지 위에 마우스 휠을 위로 굴리면 이미지가 5%씩 축소되고 아래로 굴리면 5%씩 확대되도록 하는 문제다.<br>
+![스크린샷 2023-10-29 225805](https://github.com/Gdongu/WebPgm/assets/70313873/717bf0d0-a817-49b6-8307-bbad3408d461)<br>
+![스크린샷 2023-10-29 225811](https://github.com/Gdongu/WebPgm/assets/70313873/57751b3e-84df-43fa-88b2-03862246d681)<br>
 
+p436-7<br><hr>
+웹 페이지에 있는 모든 span 태그에 마우스가 올라오면 해당 태그의 텍스트에 밑줄을 긋고, 내려가면 밑줄을 지우게 하는 문제다.<br>
+![스크린샷 2023-10-29 225925](https://github.com/Gdongu/WebPgm/assets/70313873/20ca1375-ace0-41dd-bfb5-e974734c4eff)<br>
+초기 화면이다.<br>
+![스크린샷 2023-10-29 225929](https://github.com/Gdongu/WebPgm/assets/70313873/91b3e40b-43d9-4f6e-afea-b7817ddd923f)<br>
+span 태그 중 하나인 마우스에 마우스를 갖다대니 밑줄이 생긴 모습이다.<br>
 
+p437-8<br><hr>
+li 아이템을 클릭하면 텍스트 크기를 1.3배, 다른 아이템이 클릭되면 이전 아이템을 원래 크기로 출력하는 문제다.<br>
+![스크린샷 2023-10-29 230223](https://github.com/Gdongu/WebPgm/assets/70313873/fb3ec5cb-8abe-4439-aa71-2db561a57966)<br>
+자전거로 대한민국 일주를 클릭하니 1.3배가 된 모습이다.<br>
+![스크린샷 2023-10-29 230226](https://github.com/Gdongu/WebPgm/assets/70313873/4932cf08-6235-4af5-bcce-b6513fb78fad)<br>
+책 100권 읽기를 클릭하니 1.3배가 되고 자전거로 대한민국 일주는 원상태가 된 모습이다.<br>
 
+p437-9<br><hr>
+리스트 아이템 영역 안에 마우스를 들어오면 자세한 설명을 출력하는 문제다.<br>
+![스크린샷 2023-10-29 230440](https://github.com/Gdongu/WebPgm/assets/70313873/335af3b2-bc9f-4e20-bc20-3ad933269fce)<br>
+![스크린샷 2023-10-29 230442](https://github.com/Gdongu/WebPgm/assets/70313873/47c47800-1c22-41af-9709-fb9632ce7548)<br>
+각각 리스트 아이템에 해당하는 설명이 출력되는 모습이다.<br>
 
+p438-10<br><hr>
+계산기를 만드는 문제다. 입력 창에는 초기에 0이 출력된다. 숫자와 연산자 버튼을 눌러 계산식을 만들고 = 버튼을 클릭하면 계산 결과를 출력한다. BACK 버튼을 누르면 입력창의 마지막 문자를 지운다. CE나 C 버튼은 같은 기능으로, 입력 창의 내용을 모두 지우고 처음처럼 0이 출력되게 한다. HOME 버튼은 아무 기능이 없다.<br>
+![스크린샷 2023-10-29 230809](https://github.com/Gdongu/WebPgm/assets/70313873/d6a32c9d-c5a8-4e3f-a6a4-2e3280a9b0de)<br>
+입력 창에 0이 출력되는 초기 화면이다.<br>
+![스크린샷 2023-10-29 230827](https://github.com/Gdongu/WebPgm/assets/70313873/bd8ab3d6-aa72-4023-b4fe-18aa0b57e9fb)<br>
+![스크린샷 2023-10-29 230830](https://github.com/Gdongu/WebPgm/assets/70313873/cb09e167-3107-4028-bdfd-b20b09359cab)<br>
+계산식을 만들고 계산 결과를 출력하는 모습이다.<br>
+![스크린샷 2023-10-29 230928](https://github.com/Gdongu/WebPgm/assets/70313873/af9c6c8d-ee0c-414a-9060-7c3831ca0bb7)<br>
