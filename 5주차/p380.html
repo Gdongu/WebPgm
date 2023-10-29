@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+<meta char="utf-8">
+<title>갬블링 게임</title>
+<style>
+	#box {
+		background-color: linen;
+		width: 200px;
+		height: 150px;
+		border: 2px solid purple;
+	}
+	span {
+		color: blue;
+		font-size: 100px;
+		text-align: center;
+		margin-left: 5px;
+	}
+</style>
+<script>
+	function first_span() {
+		let first = document.getElementById("first");
+        let num = Math.floor(Math.random()*3);
+        first.innerHTML = num;
+	}
+
+    function second_span() {
+        let second = document.getElementById("second");
+        let num = Math.floor(Math.random() * 3);
+        second.innerHTML = num;
+    }
+
+    function third_span() {
+        let third = document.getElementById("third");
+        let num = Math.floor(Math.random() * 3);
+        third.innerHTML = num;
+
+        if(first.innerHTML == second.innerHTML && second.innerHTML == third.innerHTML) {
+            let rs1 = document.getElementById("result");
+            rs1.innerHTML = "Success(click here to do again)";
+        }
+        else {
+            let rs2 = document.getElementById("result");
+            rs2.innerHTML = "fail(click here to do again)";
+        }
+    }
+
+    function again() {
+        	document.getElementById("result").innerHTML = " ";
+            document.getElementById("first").innerHTML = 0;
+            document.getElementById("second").innerHTML = 0;
+            document.getElementById("third").innerHTML = 0;
+    }
+</script>
+</head>
+<body>
+<h1>갬블링 게임</h1>
+<p>각 숫자를 클릭하면 0에서 2사이의 난수로 바뀝니다. 모두 같은 수가 나오면 승리합니다.</p>
+<hr>
+<div id="box">
+	<span id="first" onclick = "first_span()">0</span>
+    <span id="second" onclick = "second_span()">0</span>
+    <span id="third" onclick = "third_span()">0</span>
+</div>
+<div id="result" onclick="again()"></div>
+</body>
+</html>
