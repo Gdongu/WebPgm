@@ -2,9 +2,9 @@
 
 # 웹 프로그래밍 6주차 과제
 
-http://ab9354.dothome.co.kr/web/1/php-1.php
-http://ab9354.dothome.co.kr/web/2/php-2.php
-http://ab9354.dothome.co.kr/web/3/php-3.php
+http://ab9354.dothome.co.kr/web/1/php-1.php<br>
+http://ab9354.dothome.co.kr/web/2/php-2.php<br>
+http://ab9354.dothome.co.kr/web/3/php-3.php<br>
 
 1. 동적 웹페이지와 정적 웹페이지의 차이를 설명하시오.<br>
 : 동적 웹페이지는 서버가 사용자의 요청을 해석하고, 해당 데이터를 가공하여 페이지를 생성하므로 사용자가 상황에 따라 달라지는 웹 페이지를 볼 수 있지만 정적 웹페이지는 저장된 그대로 사용자에게 전달되므로 모든 상황에서 모든 사용자에게 동일한 정보를 표시한다.
