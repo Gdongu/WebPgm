@@ -1,0 +1,4 @@
+홍길동	30	남	123@abc.com
+김철수	25	남	456@abc.com
+김영희	26	여	789@abc.com
+이소룡	35	남	abc@abc.com
