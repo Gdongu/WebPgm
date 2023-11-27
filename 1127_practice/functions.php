@@ -59,7 +59,7 @@ function register(){
                         // 생성된 사용자의 ID를 가져옵니다.
                         $logged_in_user_id = mysqli_insert_id($db);
 
-                        $_SESSION['user'] = getUserById($logged_in_user_id); // put logged in user in session
+                        $_SESSION['user'] = getUserById($logged_in_user_id); // 로그인한 사용자를 세션에 저장합니다.
                         $_SESSION['success']  = "You are now logged in";
                         header('location: index.php');
                 }
